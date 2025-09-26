@@ -75,6 +75,5 @@
 
 ## ✅ Estado
 ![Completado](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
-![Licencia](https://img.shields.io/badge/Licencia-GPLv2-lightgrey?style=for-the-badge)
 
 ---
