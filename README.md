@@ -5,7 +5,6 @@
 ![WordPress](https://img.shields.io/badge/WordPress-5.8%2B-blue?style=for-the-badge&logo=wordpress)
 ![Apache](https://img.shields.io/badge/Apache-2.4-green?style=for-the-badge&logo=apache)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple?style=for-the-badge&logo=php)
 
 ## 📋 Pasos de Instalación
 
@@ -14,7 +13,6 @@
 **Instalación de paquetes necesarios:**
 - **Apache** - Servidor web
 - **MySQL** - Base de datos
-- **PHP** + extensiones - Lenguaje y módulos para WordPress
 
 ### 2. ⬇️ Descarga de WordPress
 ![Paso 2](2.png)
