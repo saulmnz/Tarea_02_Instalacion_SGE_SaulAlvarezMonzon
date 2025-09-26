@@ -10,7 +10,7 @@ Guía completa para desplegar WordPress con Apache y MySQL.
 ## 📋 Pasos de Instalación
 
 ### 1. 📦 Instalación de Dependencias
-![Paso 1](1)
+![Paso 1](1.png)
 Instalación de paquetes necesarios:
 - **Apache** - Servidor web
 - **MySQL** - Base de datos
