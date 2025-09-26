@@ -17,40 +17,40 @@ Instalación de paquetes necesarios:
 - **PHP** + extensiones - Lenguaje y módulos para WordPress
 
 ### 2. ⬇️ Descarga de WordPress
-![Paso 2](2)
+![Paso 2](2.png)
 Descarga y extracción de archivos de WordPress en el directorio del servidor.
 
 ### 3. ⚙️ Configuración de Apache
-![Paso 3](3)
-![Paso 4](4)
+![Paso 3](3.png)
+![Paso 4](4.png)
 - Creación de virtual host
 - Habilitación del sitio
 - Desactivación página por defecto
 - Configuración de permisos
 
 ### 4. 🗄️ Configuración de Base de Datos
-![Paso 5](5)
+![Paso 5](5.png)
 - Creación de BD y usuario
 - Asignación de privilegios
 - Configuración de seguridad
 
 ### 5. 🔗 Conexión WordPress con BD
-![Paso 6](6)
-![Paso 7](7)
+![Paso 6](6.png)
+![Paso 7](7.png)
 Configuración del archivo `wp-config.php` con datos de conexión.
 
 ### 6. 🎯 Configuración Inicial de WordPress
-![Paso 8](8)
-![Paso 9](9)
-![Paso 10](10)
-![Paso 11](11)
+![Paso 8](8.png)
+![Paso 9](9.png)
+![Paso 10](10.png)
+![Paso 11](11.png)
 - Información del sitio
 - Usuario administrador
 - Ajustes básicos
 
 ### 7. 🎨 Instalación de Tema y Plugins
-![Paso 12](12)
-![Paso 13](13)
+![Paso 12](12.png)
+![Paso 13](13.png)
 
 ## 🔌 Plugins Instalados
 
