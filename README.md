@@ -76,16 +76,7 @@
 
 ---
 
-## 📊 STACK TECNOLÓGICO
-
-| COMPONENTE | VERSIÓN | USO |
-|------------|---------|-----|
-| WORDPRESS | 5.8+ | CMS |
-| APACHE | 2.4+ | SERVIDOR WEB |
-| MYSQL | 8.0+ | BASE DE DATOS |
-| PHP | 7.4+ | LENGUAJE |
-
-## ✅ ESTADO
+## ✅ LISTOOOOO ;)
 ![Completado](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
 
 ---
