@@ -1,6 +1,6 @@
 # 🚀 Instalación y Configuración de WordPress
 
-Guía completa para desplegar WordPress con Apache y MySQL.
+**Guía completa para desplegar WordPress con Apache y MySQL.**
 
 ![WordPress](https://img.shields.io/badge/WordPress-5.8%2B-blue?style=for-the-badge&logo=wordpress)
 ![Apache](https://img.shields.io/badge/Apache-2.4-green?style=for-the-badge&logo=apache)
@@ -11,33 +11,33 @@ Guía completa para desplegar WordPress con Apache y MySQL.
 
 ### 1. 📦 Instalación de Dependencias
 ![Paso 1](1.png)
-Instalación de paquetes necesarios:
+**Instalación de paquetes necesarios:**
 - **Apache** - Servidor web
 - **MySQL** - Base de datos
 - **PHP** + extensiones - Lenguaje y módulos para WordPress
 
 ### 2. ⬇️ Descarga de WordPress
 ![Paso 2](2.png)
-Descarga y extracción de archivos de WordPress en el directorio del servidor.
+**Descarga y extracción de archivos de WordPress en el directorio del servidor.**
 
 ### 3. ⚙️ Configuración de Apache
 ![Paso 3](3.png)
 ![Paso 4](4.png)
-- Creación de virtual host
-- Habilitación del sitio
-- Desactivación página por defecto
-- Configuración de permisos
+**- Creación de virtual host**
+**- Habilitación del sitio**
+**- Desactivación página por defecto**
+**- Configuración de permisos**
 
 ### 4. 🗄️ Configuración de Base de Datos
 ![Paso 5](5.png)
-- Creación de BD y usuario
-- Asignación de privilegios
-- Configuración de seguridad
+**- Creación de BD y usuario**
+**- Asignación de privilegios**
+**- Configuración de seguridad**
 
 ### 5. 🔗 Conexión WordPress con BD
 ![Paso 6](6.png)
 ![Paso 7](7.png)
-Configuración del archivo `wp-config.php` con datos de conexión.
+**Configuración del archivo `wp-config.php` con datos de conexión.**
 
 ### 6. 🎯 Configuración Inicial de WordPress
 ![Paso 8](8.png)
