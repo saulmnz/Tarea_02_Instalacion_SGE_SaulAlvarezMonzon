@@ -10,13 +10,13 @@
 
 ### 1. 📦 Instalación de Dependencias
 ![Paso 1](1.png)
-**Instalación de paquetes necesarios:**
+## **Instalación de paquetes necesarios:**
 - **Apache** - Servidor web
 - **MySQL** - Base de datos
 
 ### 2. ⬇️ Descarga de WordPress
 ![Paso 2](2.png)
-**Descarga y extracción de archivos de WordPress en el directorio del servidor.**
+## **Descarga y extracción de archivos de WordPress en el directorio del servidor.**
 
 ### 3. ⚙️ Configuración de Apache
 ![Paso 3](3.png)
@@ -35,7 +35,7 @@
 ### 5. 🔗 Conexión WordPress con BD
 ![Paso 6](6.png)
 ![Paso 7](7.png)
-**Configuración del archivo `wp-config.php` con datos de conexión.**
+## **Configuración del archivo `wp-config.php` con datos de conexión.**
 
 ### 6. 🎯 Configuración Inicial de WordPress
 ![Paso 8](8.png)
@@ -53,12 +53,12 @@
 ## 🔌 Plugins Instalados
 
 ### 📧 Contact Form 7
-**Función**: Crear y gestionar formularios de contacto personalizables.
+## **Función**: Crear y gestionar formularios de contacto personalizables.
 
 ![Contact Form 7](https://img.shields.io/badge/Plugin-Contact%20Form%207-orange?style=flat-square)
 
 ### 🚀 Jetpack
-**Función**: Suite de herramientas para seguridad, rendimiento y estadísticas.
+## **Función**: Suite de herramientas para seguridad, rendimiento y estadísticas.
 
 ![Jetpack](https://img.shields.io/badge/Plugin-Jetpack-blue?style=flat-square)
 
