@@ -1,79 +1,79 @@
-# 🚀 Instalación y Configuración de WordPress
+# 🚀 INSTALACIÓN Y CONFIGURACIÓN DE WORDPRESS
 
-**Guía completa para desplegar WordPress con Apache y MySQL.**
+**GUÍA COMPLETA PARA DESPLEGAR WORDPRESS CON APACHE Y MYSQL.**
 
 ![WordPress](https://img.shields.io/badge/WordPress-5.8%2B-blue?style=for-the-badge&logo=wordpress)
 ![Apache](https://img.shields.io/badge/Apache-2.4-green?style=for-the-badge&logo=apache)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
 
-## 📋 Pasos de Instalación
+## 📋 PASOS DE INSTALACIÓN
 
-### 1. 📦 Instalación de Dependencias
+### 1. 📦 INSTALACIÓN DE DEPENDENCIAS
 ![Paso 1](1.png)
-## **Instalación de paquetes necesarios:**
-- **Apache** - Servidor web
-- **MySQL** - Base de datos
+## **INSTALACIÓN DE PAQUETES NECESARIOS:**
+- **APACHE** - SERVIDOR WEB
+- **MYSQL** - BASE DE DATOS
 
-### 2. ⬇️ Descarga de WordPress
+### 2. ⬇️ DESCARGA DE WORDPRESS
 ![Paso 2](2.png)
-## **Descarga y extracción de archivos de WordPress en el directorio del servidor.**
+## **DESCARGA Y EXTRACCIÓN DE ARCHIVOS DE WORDPRESS EN EL DIRECTORIO DEL SERVIDOR.**
 
-### 3. ⚙️ Configuración de Apache
+### 3. ⚙️ CONFIGURACIÓN DE APACHE
 ![Paso 3](3.png)
 ![Paso 4](4.png)
-**- Creación de virtual host**
-**- Habilitación del sitio**
-**- Desactivación página por defecto**
-**- Configuración de permisos**
+**- CREACIÓN DE VIRTUAL HOST**  
+**- HABILITACIÓN DEL SITIO**  
+**- DESACTIVACIÓN PÁGINA POR DEFECTO**  
+**- CONFIGURACIÓN DE PERMISOS**
 
-### 4. 🗄️ Configuración de Base de Datos
+### 4. 🗄️ CONFIGURACIÓN DE BASE DE DATOS
 ![Paso 5](5.png)
-**- Creación de BD y usuario**
-**- Asignación de privilegios**
-**- Configuración de seguridad**
+**- CREACIÓN DE BD Y USUARIO**  
+**- ASIGNACIÓN DE PRIVILEGIOS**  
+**- CONFIGURACIÓN DE SEGURIDAD**
 
-### 5. 🔗 Conexión WordPress con BD
+### 5. 🔗 CONEXIÓN WORDPRESS CON BD
 ![Paso 6](6.png)
 ![Paso 7](7.png)
-## **Configuración del archivo `wp-config.php` con datos de conexión.**
+## **CONFIGURACIÓN DEL ARCHIVO `WP-CONFIG.PHP` CON DATOS DE CONEXIÓN.**
 
-### 6. 🎯 Configuración Inicial de WordPress
+### 6. 🎯 CONFIGURACIÓN INICIAL DE WORDPRESS
 ![Paso 8](8.png)
 ![Paso 9](9.png)
 ![Paso 10](10.png)
 ![Paso 11](11.png)
-- Información del sitio
-- Usuario administrador
-- Ajustes básicos
+- INFORMACIÓN DEL SITIO
+- USUARIO ADMINISTRADOR
+- AJUSTES BÁSICOS
 
-### 7. 🎨 Instalación de Tema y Plugins
+### 7. 🎨 INSTALACIÓN DE TEMA Y PLUGINS
 ![Paso 12](12.png)
 ![Paso 13](13.png)
 
-## 🔌 Plugins Instalados
+## 🔌 PLUGINS INSTALADOS
 
-### 📧 Contact Form 7
-## **Función**: Crear y gestionar formularios de contacto personalizables.
+### 📧 CONTACT FORM 7
+## **FUNCIÓN**: CREAR Y GESTIONAR FORMULARIOS DE CONTACTO PERSONALIZABLES.
 
 ![Contact Form 7](https://img.shields.io/badge/Plugin-Contact%20Form%207-orange?style=flat-square)
 
-### 🚀 Jetpack
-## **Función**: Suite de herramientas para seguridad, rendimiento y estadísticas.
+### 🚀 JETPACK
+## **FUNCIÓN**: SUITE DE HERRAMIENTAS PARA SEGURIDAD, RENDIMIENTO Y ESTADÍSTICAS.
 
 ![Jetpack](https://img.shields.io/badge/Plugin-Jetpack-blue?style=flat-square)
 
 ---
 
-## 📊 Stack Tecnológico
+## 📊 STACK TECNOLÓGICO
 
-| Componente | Versión | Uso |
+| COMPONENTE | VERSIÓN | USO |
 |------------|---------|-----|
-| WordPress | 5.8+ | CMS |
-| Apache | 2.4+ | Servidor Web |
-| MySQL | 8.0+ | Base de Datos |
-| PHP | 7.4+ | Lenguaje |
+| WORDPRESS | 5.8+ | CMS |
+| APACHE | 2.4+ | SERVIDOR WEB |
+| MYSQL | 8.0+ | BASE DE DATOS |
+| PHP | 7.4+ | LENGUAJE |
 
-## ✅ Estado
+## ✅ ESTADO
 ![Completado](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
 
 ---
