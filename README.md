@@ -1,4 +1,4 @@
-# 🐬🐬🐬🐬 **INSTALACIÓN Y CONFIGURACIÓN DE WORDPRESS** 🐬🐬🐬🐬
+# 🐬🐬 **INSTALACIÓN Y CONFIGURACIÓN DE WORDPRESS** 🐬🐬
 
 **GUÍA COMPLETA PARA DESPLEGAR WORDPRESS CON APACHE Y MYSQL.**
 
@@ -6,7 +6,7 @@
 ![Apache](https://img.shields.io/badge/Apache-2.4-green?style=for-the-badge&logo=apache)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
 
-## 📋 PASOS DE INSTALACIÓN
+## 📋 PASOS DE INSTALACIÓN 📋
 
 ### 1. 🐘 INSTALACIÓN DE DEPENDENCIAS 🐘
 ![Paso 1](1.png)
