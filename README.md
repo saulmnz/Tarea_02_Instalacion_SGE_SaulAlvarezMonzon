@@ -1,4 +1,4 @@
-# **INSTALACIÓN Y CONFIGURACIÓN DE WORDPRESS** 🐬🐬
+# 🐬🐬🐬🐬 **INSTALACIÓN Y CONFIGURACIÓN DE WORDPRESS** 🐬🐬🐬🐬
 
 **GUÍA COMPLETA PARA DESPLEGAR WORDPRESS CON APACHE Y MYSQL.**
 
@@ -8,7 +8,7 @@
 
 ## 📋 PASOS DE INSTALACIÓN
 
-### 1. 📦 INSTALACIÓN DE DEPENDENCIAS
+### 1. 🐘 INSTALACIÓN DE DEPENDENCIAS 🐘
 ![Paso 1](1.png)
 ## **INSTALACIÓN DE PAQUETES NECESARIOS:**
 - **APACHE** - SERVIDOR WEB
@@ -16,13 +16,13 @@
   
 --- 
 
-### 2. ⬇️ DESCARGA DE WORDPRESS
+### 2. ⬇️ DESCARGA DE WORDPRESS ⬇️
 ![Paso 2](2.png)
 ### **DESCARGA Y EXTRACCIÓN DE ARCHIVOS DE WORDPRESS EN EL DIRECTORIO DEL SERVIDOR.**
 
 --- 
 
-### 3. ⚙️ CONFIGURACIÓN DE APACHE
+### 3. ⚙️ CONFIGURACIÓN DE APACHE ⚙️
 ![Paso 3](3.png)
 ![Paso 4](4.png)
 **- CREACIÓN DE VIRTUAL HOST**  
@@ -32,7 +32,7 @@
 
 ---
 
-### 4. 🗄️ CONFIGURACIÓN DE BASE DE DATOS
+### 4. 🗄️ CONFIGURACIÓN DE BASE DE DATOS 🗄️
 ![Paso 5](5.png)
 **- CREACIÓN DE BD Y USUARIO**  
 **- ASIGNACIÓN DE PRIVILEGIOS**  
@@ -40,14 +40,14 @@
 
 ---
 
-### 5. 🔗 CONEXIÓN WORDPRESS CON BD
+### 5. 🔗 CONEXIÓN WORDPRESS CON BD 🔗
 ![Paso 6](6.png)
 ![Paso 7](7.png)
 ### **CONFIGURACIÓN DEL ARCHIVO `WP-CONFIG.PHP` CON DATOS DE CONEXIÓN.**
 
 ---
 
-### 6. 🎯 CONFIGURACIÓN INICIAL DE WORDPRESS
+### 6. 🎯 CONFIGURACIÓN INICIAL DE WORDPRESS 🎯
 ![Paso 8](8.png)
 ![Paso 9](9.png)
 ![Paso 10](10.png)
@@ -58,25 +58,25 @@
 
 ---
 
-### 7. 🎨 INSTALACIÓN DE TEMA Y PLUGINS
+### 7. 🎨 INSTALACIÓN DE TEMA Y PLUGINS 🎨
 ![Paso 12](12.png)
 ![Paso 13](13.png)
 
-## 🔌 PLUGINS INSTALADOS
+## 🔌 PLUGINS INSTALADOS 🔌
 
-### 📧 CONTACT FORM 7
+### 📧 CONTACT FORM 7 📧
 ### **FUNCIÓN**: CREAR Y GESTIONAR FORMULARIOS DE CONTACTO PERSONALIZABLES.
 
 ![Contact Form 7](https://img.shields.io/badge/Plugin-Contact%20Form%207-orange?style=flat-square)
 
-### 🚀 JETPACK
+### 🚀 JETPACK 🚀
 ### **FUNCIÓN**: SUITE DE HERRAMIENTAS PARA SEGURIDAD, RENDIMIENTO Y ESTADÍSTICAS.
 
 ![Jetpack](https://img.shields.io/badge/Plugin-Jetpack-blue?style=flat-square)
 
 ---
 
-## ✅ LISTOOOOO 
+## **LISTOOOOO**  ✅✅✅✅✅✅✅
 ![Completado](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
 
 ---
