@@ -76,7 +76,7 @@
 
 ---
 
-## ✅ LISTOOOOO ;)
+## ✅ LISTOOOOO 
 ![Completado](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
 
 ---
